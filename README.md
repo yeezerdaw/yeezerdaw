@@ -53,9 +53,9 @@
 
 ## 🌍 Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📬 [Email](mailto:your@email.com)  
-💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/yeshwanth-kumar-7a91a723b/)  
+🐦 [Twitter](https://x.com/Yeshwan61475610)  
+📬 [Email](yeshwanthk014@gmail.com)  
+
 
 🚀 Let's collaborate on **ML research, AI projects, or anything innovative!**
