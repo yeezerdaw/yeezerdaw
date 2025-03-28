@@ -43,9 +43,10 @@
 
 ## 📈 Stats & Achievements
 
+🛠️ **Machine Learning Intern @ Feynn Labs** (2024)  
+
 🏆 **Asian Level Space Settlement Competition Winner** (2018)  
-🛠️ **Machine Learning Intern @ Feynn Labs** (2024-Present)  
-🎤 **Hosting Model United Nations (MUN) with 12 Countries**  
+
   
 
 ---
