@@ -46,7 +46,7 @@
 🏆 **Asian Level Space Settlement Competition Winner** (2018)  
 🛠️ **Machine Learning Intern @ Feynn Labs** (2024-Present)  
 🎤 **Hosting Model United Nations (MUN) with 12 Countries**  
-💻 **CGPA: 7.40** | Best Semester: **8.14**  
+  
 
 ---
 
