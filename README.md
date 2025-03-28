@@ -24,20 +24,7 @@
 - ☁️ Cloud Computing & DevOps  
 - 🛢️ MongoDB, PostgreSQL  
 
----
 
-## 🔥 Featured Projects
-
-### **📰 Fake News Detection using Graph Neural Networks**  
-- Built a **multi-class fake news classifier** using **GraphSAGE & BERT embeddings**
-- Achieved **90.55% accuracy** with **1000 epochs & learning rate scheduling**
-- Deployed as a **web app** where users can verify news articles
-
-
-
-### **🕵️ AI-Powered Prompt Generator**
-- Generates creative prompts for **content creators, designers, and programmers**
-- Uses **NLP models** to suggest **context-aware and diverse prompts**
 
 ---
 
