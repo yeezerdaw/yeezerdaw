@@ -30,7 +30,7 @@
 
 ### **📰 Fake News Detection using Graph Neural Networks**  
 - Built a **multi-class fake news classifier** using **GraphSAGE & BERT embeddings**
-- Achieved **60.55% accuracy** with **1000 epochs & learning rate scheduling**
+- Achieved **90.55% accuracy** with **1000 epochs & learning rate scheduling**
 - Deployed as a **web app** where users can verify news articles
 
 
