@@ -3,7 +3,7 @@
 🚀 **Machine Learning & AI Enthusiast | CSE @ IIIT Kottayam**  
 💡 Passionate about **Reinforcement Learning, Graph Neural Networks, and AI Applications in Education**  
 🎯 Currently working on **Fake News Detection using GNNs** & **AI-powered ADHD Learning Companion**  
-📚 Exploring **Microprocessors, Cloud Computing, and DevOps**
+📚 Exploring **Cloud Computing, and DevOps**
 
 ---
 
