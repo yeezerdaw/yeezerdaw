@@ -1,4 +1,4 @@
-# Yeshwanth Kumar 
+# 👾 Yeshwanth Kumar 👾
 
 **Generative AI Developer | AI/ML Engineer**
 
