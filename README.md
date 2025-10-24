@@ -1,15 +1,15 @@
-# Yeshwanth Kumar ✨
+# Yeshwanth Kumar 
 
 **Generative AI Developer | AI/ML Engineer**
 
 AI/ML engineer who loves building smart things that make life easier 🤖  
 Currently studying CS (AI & DS) at IIIT Kottayam and having way too much fun with LLMs.
 
-## What I'm Up To 🔥
+## What I'm Up To 
 - **AI/ML Cybersecurity Intern** @ DigiFortex - Teaching machines to catch bad guys 🕵️
 - **Cloud-Native CNAPP Platform** - Making security logs less scary with AI magic
 
-## Fun Stuff I've Built 🚀
+## Fun Stuff I've Built 
 
 **Cloud-Native CNAPP Threat Intelligence (Internship @ DigiFortex)**  
 LangChain, OpenAI APIs, Python, AWS  
