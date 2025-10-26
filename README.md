@@ -2,26 +2,8 @@
 
 **Generative AI Developer | AI/ML Engineer**
 
-AI/ML engineer who loves building smart things that make life easier 🤖  
+AI/ML engineer who loves building  things that make life easier 
 Currently studying CS (AI & DS) at IIIT Kottayam and having way too much fun with LLMs.
-
-## What I'm Up To 
-- **AI/ML Cybersecurity Intern** @ DigiFortex - Teaching machines to catch bad guys 🕵️
-- **Cloud-Native CNAPP Platform** - Making security logs less scary with AI magic
-
-## Fun Stuff I've Built 
-
-**Cloud-Native CNAPP Threat Intelligence (Internship @ DigiFortex)**  
-LangChain, OpenAI APIs, Python, AWS  
-10,000+ daily logs processed, 92% accuracy, 60% faster triage
-
-**[Fake News Detection System](https://github.com/yeezerdaw/FakeNewsGNN)**  
-PyTorch, BERT, Graph Neural Networks  
-85% accuracy on 21k samples, 15% better than baselines
-
-**[Obsidian Knowledge Management System](https://github.com/yeezerdaw/obsidian-to-llm)**  
-Python, LLM APIs, REST  
-Personal assistant to process notes on Obsidian with automated summarization and added intelligence.
 
 ## Tech Stack
 
