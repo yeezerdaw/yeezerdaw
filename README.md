@@ -1,4 +1,4 @@
-# 👾 Yeshwanth Kumar 👾
+#  Yeshwanth Kumar 
 
 **Generative AI Developer | AI/ML Engineer**
 
@@ -14,7 +14,7 @@ Currently studying CS (AI & DS) at IIIT Kottayam and having way too much fun wit
 
 
 
-## Contact 📬
+## Contact 
 
 [Email](mailto:yeshwanthk014@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
